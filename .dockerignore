@@ -1,0 +1,9 @@
+.git
+node_modules
+.env*
+.insta
+*.private.*
+*.log
+logs
+.pm2
+.DS_Store
